@@ -1,0 +1,15 @@
+const three = 3;
+const string = "string";
+const myArray = [1, 2, 3, 4];
+const myObject = { foo: "bar" };
+console.log(string.toString());
+console.log(three.toString());
+console.log(myArray.toString());
+console.log(myObject.toString());
+console.log(string.slice());
+//console.log(three.slice());
+console.log(myArray.slice());
+//console.log(myObject.slice());
+const createdObject = Object.create(myObject);
+console.log(createdObject);
+console.log(createdObject.foo);
