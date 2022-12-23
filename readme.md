@@ -1,2 +1,1 @@
-this repository is for studying at Launch School
-this repository is for
+This is where I keep my Launch School work.
